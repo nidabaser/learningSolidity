@@ -1,13 +1,17 @@
 # learningSolidity
 
-● https://docs.soliditylang.org/en/v0.4.25/index.html# dökümantasyonunu okunabilir.
+● Solidity dökümantasyon: https://docs.soliditylang.org/en/v0.4.25/index.html#
 
-● https://solidity-by-example.org/ adresinden örneklerle solidity temelleri öğrenilebilir.
+● Örneklerle Solidity temelleri: https://solidity-by-example.org/
 
-● https://cryptozombies.io/ adresinde oyun yaparak solidity ile dApp geliştirilebilir.
+● Oyun yaparak solidity ile Decentralized App geliştirmek: https://cryptozombies.io/ 
 
-● https://www.smartcontract.engineer/ adresindeki challenge’lar yapılabilir.
+● Solidity challenge: https://www.smartcontract.engineer/ 
 
-● https://ethereum.org/en/developers/docs/ Ethereum hakkında bilgi sahibi olmak için okunabilir.
+● Ethereum dökümantasyon: https://ethereum.org/en/developers/docs/
 
-● https://web3js.readthedocs.io/en/v1.4.0/#  Web3.js ile ilgili dökümantasyon okunabilir.
+● Web3.js dökümantasyon: https://web3js.readthedocs.io/en/v1.4.0/#  
+
+● Open Zeppelin: https://docs.openzeppelin.com/learn/developing-smart-contracts 
+
+● Open Zeppelin Contracts Wizard: https://wizard.openzeppelin.com/  
